@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rushmiithasri
-- 👀 I’m interested in Data Engineer
+- 👀 I’m interested in SDE
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rushmithasri1997@gmail.com
